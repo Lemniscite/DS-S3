@@ -1,0 +1,75 @@
+
+ STACK 
+1 	:	Push 
+2	:	Pop 
+3	: 	Isempty
+4	:	Isfull
+5	:	Display
+O		:Exit
+Enter The Choice:1
+
+Enter The Item:1
+Elament 1 Is added to stack
+ STACK 
+1 	:	Push 
+2	:	Pop 
+3	: 	Isempty
+4	:	Isfull
+5	:	Display
+O		:Exit
+Enter The Choice:2
+The Elament 1 is Poped
+ STACK 
+1 	:	Push 
+2	:	Pop 
+3	: 	Isempty
+4	:	Isfull
+5	:	Display
+O		:Exit
+Enter The Choice:3
+
+Stack is Empty
+
+ STACK 
+1 	:	Push 
+2	:	Pop 
+3	: 	Isempty
+4	:	Isfull
+5	:	Display
+O		:Exit
+Enter The Choice:4
+
+Stack Is NotFull
+
+ STACK 
+1 	:	Push 
+2	:	Pop 
+3	: 	Isempty
+4	:	Isfull
+5	:	Display
+O		:Exit
+Enter The Choice:44  4
+
+Stack Is NotFull
+
+ STACK 
+1 	:	Push 
+2	:	Pop 
+3	: 	Isempty
+4	:	Isfull
+5	:	Display
+O		:Exit
+Enter The Choice:5
+
+Stack is Empty
+
+ STACK 
+1 	:	Push 
+2	:	Pop 
+3	: 	Isempty
+4	:	Isfull
+5	:	Display
+O		:Exit
+Enter The Choice:0
+
+
